@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Josefin+Sans:wght@300&family=Source+Code+Pro&display=swap');
+body {
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .3em;
+    top: 15%;
+	background: linear-gradient(to right, red , yellow);
+}
+
+h1 {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 3rem;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .3em;
+    width: 100%;
+}
+h2{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2.5rem;
+}
+
+h3 {
+	font-family: 'Architects Daughter', cursive;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.1em;
+
+}
